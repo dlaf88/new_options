@@ -1,0 +1,9 @@
+== README
+
+SECTION PLACEHOLDER 
+
+** JAVASCRIPT FILES WERE SKIPPED USING --skip-javascript at 
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
